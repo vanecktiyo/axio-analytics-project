@@ -4,7 +4,7 @@
 
 Ce projet présente une solution complète d'aide à la décision pour l'enseigne "Maison & Sens", visant à transformer les données clients en leviers de croissance concrets.
 
-### 🔗 [Voir la présentation interactive](METS_TON_LIEN_GITHUB_PAGES_ICI)
+### 🔗 [Voir la présentation interactive](https://vanecktiyo.github.io/axio-analytics-project/)
 
 ## 🎯 Objectifs du projet
 * **Analyse du Churn :** Identification de 30% de la base client "en risque" (représentant 15M€ de CA).
